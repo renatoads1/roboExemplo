@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPL4X5h6TiXCBxeIugt5r20ghDkq4gOqfWgZRvwjG9jmezFgyOrdwKUWQQSAsclk9aORXftJzm8VIzzJPPiqow==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETOS\\VISUALSTUDIO\\ROBO\\autoit2\\autoit2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renato\\.nuget\\packages\\autoitx.dotnet\\3.3.14.5\\autoitx.dotnet.3.3.14.5.nupkg.sha512"
+  ],
+  "logs": []
+}
